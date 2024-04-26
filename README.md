@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lobnamuhamed&label=Profile%20views&color=0e75b6&style=flat" alt="lobnamuhamed" /> </p>
 
-- 🔭 I’m currently working on **Banking system**
+- 🔭 I’m currently working on **DVLD**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core & T-SQL**
 
 - 💬 Ask me about **.NET Platform**
 
